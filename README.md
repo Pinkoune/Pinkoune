@@ -18,8 +18,6 @@ Combat au tour par tour avec annonce d'intention de l'ennemi (attaque, parade ou
 
 `React` `TypeScript` `Zustand` `Tailwind` `Firebase`
 
-<a href="https://github.com/Pinkoune/RPText"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RPText" /></a>
-
 </td>
     <td width="50%" valign="top">
 
@@ -29,9 +27,11 @@ Un univers dirigé par un réalisateur.
 
 `Unreal Engine` `C++`
 
-<a href="https://github.com/Pinkoune/RESHOOT"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RESHOOT" /></a>
-
 </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Pinkoune/RPText"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RPText" /></a></td>
+    <td align="center"><a href="https://github.com/Pinkoune/RESHOOT"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RESHOOT" /></a></td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
@@ -42,11 +42,18 @@ Projet perso en cours de construction.
 
 `Rust` `MCP`
 
-<a href="https://github.com/Pinkoune/Cruft"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo Cruft" /></a>
-
 </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/Pinkoune/Cruft"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo Cruft" /></a></td>
+  </tr>
 </table>
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://pinkoune.github.io/Portfolio/"><img src="https://img.shields.io/badge/Visiter%20mon%20portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visiter mon portfolio" /></a>
+</p>
 
 ## 🛠️ Stack
 
