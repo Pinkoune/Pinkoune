@@ -54,13 +54,6 @@ Projet perso en cours de construction.
   <img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,gitlab,docker,linux,go,rust,ts,react,nodejs,unity,cs&perline=13" />
 </p>
 
-## 📊 Activité
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pinkoune&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkoune&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="./assets/penguin-walk.svg" alt="Pingouin rose qui se promène" />
 </p>
