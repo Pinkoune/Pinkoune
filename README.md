@@ -18,7 +18,7 @@ Combat au tour par tour avec annonce d'intention de l'ennemi (attaque, parade ou
 
 `React` `TypeScript` `Zustand` `Tailwind` `Firebase`
 
-[Voir le repo →](https://github.com/Pinkoune/RPText)
+<a href="https://github.com/Pinkoune/RPText"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RPText" /></a>
 
 </td>
     <td width="50%" valign="top">
@@ -29,7 +29,7 @@ Un univers dirigé par un réalisateur.
 
 `Unreal Engine` `C++`
 
-[Voir le repo →](https://github.com/Pinkoune/RESHOOT)
+<a href="https://github.com/Pinkoune/RESHOOT"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo RESHOOT" /></a>
 
 </td>
   </tr>
@@ -42,7 +42,7 @@ Projet perso en cours de construction.
 
 `Rust` `MCP`
 
-[Voir le repo →](https://github.com/Pinkoune/Cruft)
+<a href="https://github.com/Pinkoune/Cruft"><img src="https://img.shields.io/badge/Voir%20le%20repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo Cruft" /></a>
 
 </td>
   </tr>
