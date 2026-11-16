@@ -23,13 +23,13 @@ Combat au tour par tour avec annonce d'intention de l'ennemi (attaque, parade ou
 </td>
     <td width="50%" valign="top">
 
-### 🕹️ EpiGames
-Portail multigaming pour les étudiants d'Epitech, inspiré de Steam Big Picture.
-Bibliothèque de jeux du groupe, profils, amis et présence en ligne, forum, espace bugs/features par jeu, page d'admin.
+### 🎬 RESHOOT
+FPS développé en équipe de 4 pour l'Epic AI MegaJam 2026 (thème « Director's Cut »).
+Un univers dirigé par un réalisateur.
 
-`TypeScript` `Vite` `Firebase` `GitHub Actions`
+`Unreal Engine` `C++`
 
-[Voir le repo →](https://github.com/Pinkoune/EpiGames)
+[Voir le repo →](https://github.com/Pinkoune/RESHOOT)
 
 </td>
   </tr>
