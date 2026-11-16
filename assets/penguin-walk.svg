@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190">
+  <style>
+    .walk { animation: walk 12s linear infinite; }
+    .flip { transform-box: fill-box; transform-origin: 50% 50%; animation: flip 12s steps(1, end) infinite; }
+    .penguin { transform-box: fill-box; transform-origin: 50% 100%; animation: sway 0.8s ease-in-out infinite; }
+    .wl, .wr { transform-box: fill-box; }
+    .wl { transform-origin: 90% 5%; animation: flapL 0.8s ease-in-out infinite; }
+    .wr { transform-origin: 10% 5%; animation: flapR 0.8s ease-in-out infinite; }
+    .foot { transform-box: fill-box; transform-origin: 50% 100%; }
+    .fl { animation: stepL 0.8s ease-in-out infinite; }
+    .fr { animation: stepR 0.8s ease-in-out infinite; }
+    .eyes { transform-box: fill-box; transform-origin: 50% 50%; animation: blink 4s infinite; }
+    .pupils { animation: look 5s ease-in-out infinite; }
+    @keyframes walk { 0% { transform: translateX(0); } 50% { transform: translateX(755px); } 100% { transform: translateX(0); } }
+    @keyframes flip { 0% { transform: scaleX(1); } 50% { transform: scaleX(-1); } }
+    @keyframes sway { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+    @keyframes flapL { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(8deg); } }
+    @keyframes flapR { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-8deg); } }
+    @keyframes stepL { 0%,50%,100% { transform: translateY(0); } 25% { transform: translateY(-14px) rotate(-6deg); } }
+    @keyframes stepR { 0%,50%,100% { transform: translateY(0); } 75% { transform: translateY(-14px) rotate(6deg); } }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+    @keyframes look { 0%,100% { transform: translateX(0); } 40% { transform: translateX(-6px); } 70% { transform: translate(5px, 2px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <!-- sol -->
+  <line x1="20" y1="182" x2="880" y2="182" stroke="#FF69B4" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+
+  <g class="walk">
+    <g class="flip">
+      <g transform="translate(10,18) scale(0.26)">
+        <g class="penguin">
+          <g class="foot fl"><path d="M122 524 C145 508 188 520 207 548 L238 585 C200 605 150 592 124 556 C116 546 116 534 122 524 Z" fill="#FFC32B"/></g>
+          <g class="foot fr"><path d="M345 532 C375 545 395 570 408 592 C365 612 305 602 285 592 C288 562 318 538 345 532 Z" fill="#FFC32B"/></g>
+          <g class="wr">
+            <path d="M412 252 C448 290 472 360 466 412 C448 418 430 405 424 385 Z" fill="#FFA6CD"/>
+            <path d="M425 300 C445 335 452 370 448 405 C436 400 428 392 424 380 Z" fill="#FF7FB8"/>
+          </g>
+          <path d="M70 235 C70 120 150 55 245 55 C345 55 418 130 420 265 C422 430 395 572 250 574 C120 576 68 440 70 235 Z" fill="#FFA6CD"/>
+          <path d="M132 380 C130 290 200 215 285 225 C375 235 428 320 425 410 C422 500 360 566 270 568 C190 570 134 480 132 380 Z" fill="#FFFFFF"/>
+          <g class="wl">
+            <path d="M98 240 C45 285 5 400 22 466 C70 450 112 385 118 322 Z" fill="#FFA6CD"/>
+            <path d="M118 322 C112 385 70 450 22 466 C60 462 100 420 118 322 Z" fill="#FF86BC"/>
+          </g>
+          <g class="eyes">
+            <ellipse cx="240" cy="195" rx="40" ry="33" transform="rotate(-10 240 195)" fill="#FFFFFF"/>
+            <ellipse cx="330" cy="185" rx="38" ry="33" fill="#FFFFFF"/>
+            <g class="pupils">
+              <circle cx="259" cy="200" r="17" fill="#000"/>
+              <circle cx="346" cy="188" r="15" fill="#000"/>
+            </g>
+          </g>
+          <path d="M250 232 C256 208 335 205 356 222 C358 240 300 262 262 250 C254 246 250 240 250 232 Z" fill="#FFE41C"/>
+          <path d="M262 250 C300 262 358 240 356 222 C340 238 300 246 262 240 Z" fill="#FFC82A"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
