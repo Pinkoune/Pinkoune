@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pinkoune&fontSize=70&fontColor=fff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=560&lines=Alternant+DevOps+%40+Capgemini;%C3%89tudiant+%40+Epitech+Toulouse;Kubernetes+%7C+Terraform+%7C+ArgoCD;Je+fais+des+jeux+et+des+outils+pour+en+faire" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=560&lines=Alternant+DevOps+%40+Capgemini;%C3%89tudiant+%40+Epitech+Toulouse;Kubernetes+%7C+Terraform+%7C+ArgoCD;Je+fais+des+jeux+et+des+outils+pour+kiffer" />
 
 </div>
 
